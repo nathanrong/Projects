@@ -4,8 +4,8 @@ import random
 pygame.init()
 
 # Establish Window Size and Game Constants
-window_width = 1020
-window_height = 920
+window_width = 1020 # 920 for smaller
+window_height = 920 # 820 for smaller
 rows = 6
 columns = 5
 padding = window_width * 0.01
