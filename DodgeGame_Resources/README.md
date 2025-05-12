@@ -1,6 +1,7 @@
 ## Dodge Game - Python Project
 
 **Description**
+
 Python code for a fast-paced Dodge game. Brave an intergalactic battlefield, dodge incoming threats, and see how long you can survive!
 
 **Required Libraries** 
@@ -12,6 +13,7 @@ To install the third party python library, run:
     pip install pygame-ce
 
 **Resource Files**
+
 The game uses the following resource files. Ensure they are in the same directory as your script:
 - RedSpace.png (background)
 - laser.png (object image 1)
@@ -20,6 +22,7 @@ The game uses the following resource files. Ensure they are in the same director
 - Oxanium-Bold.ttf (typographic font type file)
 
 **Gameplay**
+
 Objective: Survive as long as possible by dodging incoming lasers and metoers
 Controls: 
 - Use right click to move character
