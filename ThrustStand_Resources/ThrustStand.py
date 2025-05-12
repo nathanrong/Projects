@@ -440,6 +440,7 @@ while running:
             converted = str(ser_out, 'UTF-8')
             converted = converted.strip()
             if converted == '':
+                empty = False
                 continue
             else:
                 if converted.startswith("<") and converted.endswith(">"):
