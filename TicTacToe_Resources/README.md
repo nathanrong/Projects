@@ -16,6 +16,7 @@ The game uses the following resource files. Ensure they are in the same director
 - xfile.png (X image)
 
 **Gameplay**
+
 Objective: Win a game of Tic Tac Toe
 Controls: 
 - Use left click to place your marker
