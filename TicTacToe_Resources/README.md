@@ -1,6 +1,7 @@
 ## Tic Tac Toe - Python Project
 
 **Description**
+
 Play a game of Tic Tac Toe against a rival foe.
 
 **Required Libraries** 
@@ -10,6 +11,7 @@ To install the third party python library, run:
     pip install pygame-ce
 
 **Resource Files**
+
 The game uses the following resource files. Ensure they are in the same directory as your script:
 - grid.png (background)
 - ofile.png (O image)
