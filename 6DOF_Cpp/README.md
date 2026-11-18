@@ -1,0 +1,1 @@
+Academic 6DOF aircraft model originally developed in Simulink; partial C++ reimplementation undertaken to explore numerical integration, software architecture, and flight-dynamics modeling. Development paused after reassessing model fidelity and intended simulation use.
